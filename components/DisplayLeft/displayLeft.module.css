@@ -1,0 +1,48 @@
+/* tabla */
+.table{
+    width: 80%;
+    border-color: rgba(255, 255, 255, 0.1);
+    border-width: 1px;
+    margin: 0 auto;
+
+}
+.thead{
+    background-color: transparent;
+    border-color: rgba(255, 255, 255, 0.1);
+    border-width: 1px;
+}
+
+/* button */
+.buttonSelected{
+    background-color: transparent;
+    border-color: rgba(255, 255, 255, 0.1);
+    border-width: 1px;
+    padding: 0.5rem;
+}
+.button{
+    background-color: transparent;
+    border-width: 0px;
+    padding: 0.5rem;
+}
+
+/* items */
+.stock{
+    color: #2394df;
+    line-height: 1px;
+    text-align: left;
+}
+.price{
+    color:rgba(255, 255, 255, 0.7);
+    line-height: 1px;
+    text-align: left;
+}
+.group{
+    color:#8a8d92;
+    line-height: 1px;
+    text-align: left;
+    font-size: 0.75rem;
+}
+
+.span{
+    color: #8a8d92;
+}
